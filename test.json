@@ -1,0 +1,40 @@
+[
+    {
+        "insert": "\n一级列表1"
+    },
+    {
+        "insert": "\n",
+        "attributes": {
+            "list": "ordered"
+        }
+    },
+    {
+        "insert": "一级列表2"
+    },
+    {
+        "insert": "\n",
+        "attributes": {
+            "list": "ordered"
+        }
+    },
+    {
+        "insert": "二级列表1"
+    },
+    {
+        "insert": "\n",
+        "attributes": {
+            "list": "bullet",
+            "indent": 1
+        }
+    },
+    {
+        "insert": "二级列表2"
+    },
+    {
+        "insert": "\n",
+        "attributes": {
+            "list": "bullet",
+            "indent": 1
+        }
+    }
+]

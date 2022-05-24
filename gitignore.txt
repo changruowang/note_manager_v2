@@ -1,0 +1,6 @@
+*.pyc
+*.pth
+.idea
+*.zip
+tmp/
+
